@@ -1,0 +1,33 @@
+run
+run 2+3
+run
+run "11+"
+run "1 1 +"
+run "1 2 3 4 5 + - / *"
+run "1 2 3 4 5 + - /"
+run
+run "1 1 +"
+console
+run
+run 12+
+last compile:run
+Calculator 12+
+exit
+run
+run "1 1 +"
+run "1 2 3 4 5 + - / *"
+run "1 1 +"
+run "11+"
+exit
+run "1 1 +"
+exit
+run "1 1 +"
+exit
+run 11+
+run 1 1 +
+11+
+run 
+run 1
+run + 1 2
+run +1 2
+run "1 1 +"
