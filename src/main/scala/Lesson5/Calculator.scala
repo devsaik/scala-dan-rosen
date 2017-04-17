@@ -75,6 +75,7 @@ object Calculator {
     }
     else{
       val expression = parse(args(0))
+      println("Result::::"+calculate(expression))
     }
 
 }
