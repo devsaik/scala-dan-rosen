@@ -1,8 +1,11 @@
+package Lesson4
+
 /**
  * Created by rca733 on 5/7/16.
  */
 
 import scala.collection.mutable.Stack
+
 object Calculator {
   trait Operator{
     def operate(lhs:Int,rhs:Int):Int
